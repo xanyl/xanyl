@@ -117,7 +117,7 @@
 
 <p align="center">
   <a href="https://github.com/xanyl">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Anil's GitHub Contribution"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xanyl&theme=ayu_mirage" alt="Anil's GitHub Contribution"/>
   </a>
 </p>
 

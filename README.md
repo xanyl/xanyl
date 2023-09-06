@@ -11,8 +11,6 @@
 </p>
 
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@bb8b9475-cb93-45ae-b6c4-0b60087db54b)
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -110,4 +108,4 @@
 </a>
 
 
-![Anil K's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=xanyl&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+

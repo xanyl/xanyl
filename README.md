@@ -99,17 +99,9 @@
 <hr/>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/xanyl">
-    <img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xanyl)](https://git.io/streak-stats)" alt="Anil's GitHub streak"/>
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/xanyl">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xanyl&theme=ayu_mirage" alt="Anil's GitHub Contribution"/>
-  </a>
-</p>
+
+
 
 <a> 
     <a href="https://github.com/xanyl"><img alt="Anil's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=xanyl&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866about:blank" height="192px" width="49.5%"/></a>

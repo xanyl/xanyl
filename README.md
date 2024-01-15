@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
- <a href="https://www.anilktiwari.com.np/" target="blank">
+ <a href="https://www.tiwarianil.com.np/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="anil" />
  </a>
  <a href="https://linkedin.com/in/anilktiwari" target="_blank">

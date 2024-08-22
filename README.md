@@ -14,7 +14,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://anilktiwari.com.np">Anil K Tiwari</a></b>
+                <b><a target="_blank" href="https://tiwarianil.com.np">Anil K Tiwari</a></b>
         </samp>
 </h3>
 
